@@ -27,7 +27,7 @@ $domain = 'http://cms.woger-cdn.com/';
 $db = array(
     'database' => 'cms',
     'user' => 'root',
-    'password' => 'H0tmail!8',
+    'password' => 'xxx',
     'host' => 'localhost',
     'table' => 'wgr_drupal_files',
 );
